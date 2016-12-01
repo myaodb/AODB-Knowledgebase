@@ -1,4 +1,4 @@
 # The myAODB Knowledge Base
-Common aviation industry information
+##Common aviation industry information
 
-[GitHub]AODB-Knowledgebase/Type-B-Messaging.md 
+* [Info about Type B Messaging](Type-B-Messaging.md)
